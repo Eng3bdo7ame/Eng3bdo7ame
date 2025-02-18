@@ -1,15 +1,17 @@
-<h2 align="left">Hi 👋! My name is Abdelrahman Hamed Shanab and I'm a Front End Developer, from Egypt </h2>
+<h1 align="center">Hi 👋! My name is Abdelrahman Hamed Shanab  </h1>
+<h2 align="center"> I'm a Front End Developer 🧑‍💻 </h2>
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
-<img align="right" height="300" width="500" src="./8PP5vBfxGm (1).gif" />
+
+
+<img align="right" height="400" width="500" src="./8PP5vBfxGm (1).gif" />
+
+
 
 
 <div align="left">
@@ -36,11 +38,23 @@
   <img width="12" />
 </div>
 
+###
 
 
 <div align="left" >
-  <p>Front-End Developer with expertise in building responsive and interactive web applications using React.js and modern JavaScript frameworks. Skilled in creating user-focused designs, optimizing performance, and implementing clean, maintainable code. Passionate about delivering high-quality solutions and enhancing user experiences.  
-</p>
+
+  💻 **What I Do:**  
+- Develop dynamic and high-performance web applications 🚀  
+- Enhance user experience (UX) with **React + Next.js** 🎨  
+- Write clean, maintainable, and reusable code 🏗️  
+- Optimize websites using **SEO, SSR, and SSG** 🔍  
+
+📌 **Core Skills:**  
+ - HTML, CSS, JavaScript, TypeScript 💻
+ - React.js, Next.js, Redux 🧑‍💻
+ - Tailwind CSS, Bootstrap, Styled Components 🎨 
+ - API Integration Fetch, Axios 🧑‍🔬
+
 </div>
 
 
@@ -55,12 +69,5 @@
  <a href="abdelrahmanhamed366@gmail.com"><img src="https://img.shields.io/badge/gmail-%23FF0000?style=flat&logo=gmail&logoColor=white"/></a>
   
 </div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###

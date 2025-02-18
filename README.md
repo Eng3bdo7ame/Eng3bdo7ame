@@ -49,11 +49,10 @@
  <a href="[https://www.linkedin.com/in/mohamedabusrea](https://wa.me/+01127970969)">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
  </a>
- <a href="[https://www.linkedin.com/in/mohamedabusrea](https://www.facebook.com/3bdo.hamed)">
+ <a href="https://www.facebook.com/3bdo.hamed">
    <img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
- <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/gmail-%23FF0000?style=flat&logo=gmail&logoColor=white"/></a>
+ <a href="www.linkedin.com/in/abdelrahman-hamed-388611218"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+ <a href="abdelrahmanhamed366@gmail.com"><img src="https://img.shields.io/badge/gmail-%23FF0000?style=flat&logo=gmail&logoColor=white"/></a>
   
 </div>
 

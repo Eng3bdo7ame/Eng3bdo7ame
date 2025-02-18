@@ -9,7 +9,7 @@
 
 
 
-<img align="right" height="400" width="500" src="./8PP5vBfxGm (1).gif" />
+<img align="right" height="400" width="400" src="./8PP5vBfxGm (1).gif" />
 
 
 

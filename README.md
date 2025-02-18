@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="300" width="500" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
+<img align="right" height="300" width="500" src="./8PP5vBfxGm (1).gif" />
 
 
 <div align="left">
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
   <img width="12" />
 </div>
+
+
 
 <div align="left" >
   <p>Front-End Developer with expertise in building responsive and interactive web applications using React.js and modern JavaScript frameworks. Skilled in creating user-focused designs, optimizing performance, and implementing clean, maintainable code. Passionate about delivering high-quality solutions and enhancing user experiences.  
